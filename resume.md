@@ -1,1 +1,1 @@
-<a href="resume.png" />
+![Resume](https://github.com/jiayuq925/gh-pages/resume.png)
